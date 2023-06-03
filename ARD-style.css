@@ -226,3 +226,59 @@
 .bg-green-1 {
     background: rgba(0, 256, 0, 0.100);
 }
+
+
+.bg-grey-9 {
+    background: hsl(0, 0%, 90%);
+}
+.bg-grey-8 {
+    background: hsl(0, 0%, 80%);
+}
+.bg-grey-7 {
+    background: hsl(0, 0%, 70%);
+}
+.bg-grey-6 {
+    background: hsl(0, 0%, 60%);
+}
+.bg-grey-5 {
+    background: hsl(0, 0%, 50%);
+}
+.bg-grey-4 {
+    background: hsl(0, 0%, 40%);
+}
+.bg-grey-3 {
+    background: hsl(0, 0%, 30%);
+}
+.bg-grey-2 {
+    background: hsl(0, 0%, 20%);
+}
+.bg-grey-1 {
+    background: hsl(0, 0%, 10%);
+}
+.bg-grey-09 {
+    background: hsl(0, 0%, 9%);
+}
+.bg-grey-08 {
+    background: hsl(0, 0%, 8%);
+}
+.bg-grey-07 {
+    background: hsl(0, 0%, 7%);
+}
+.bg-grey-06 {
+    background: hsl(0, 0%, 6%);
+}
+.bg-grey-05 {
+    background: hsl(0, 0%, 5%);
+}
+.bg-grey-04 {
+    background: hsl(0, 0%, 4%);
+}
+.bg-grey-03 {
+    background: hsl(0, 0%, 3%);
+}
+.bg-grey-02 {
+    background: hsl(0, 0%, 2%);
+}
+.bg-grey-01 {
+    background: hsl(0, 0%, 1%);
+}
